@@ -2,7 +2,7 @@
 
 - Hi 👋, I'm Ruchitha M R
 - A passionate frontend developer from India
-- Currently studying sem 4 at PES University
+- Currently studying sem 6 at PES University
 
 
 <h3 align="left">Languages and Tools:</h3>
